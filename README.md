@@ -15,7 +15,10 @@ All the hyperparameters were tuned after a lot of trial and error, which led to 
 
 Neural networks created with PyTorch and GUI with PyGame.
 
-### Screenshot (neural network animation included!)
+### Video/gif (neural network animation included!)
+![App gif](demo.gif)
+
+### Screenshot (in case the above gif doesn't work)
 ![App screenshot](screenshot.png)
 
 ### Running the app
